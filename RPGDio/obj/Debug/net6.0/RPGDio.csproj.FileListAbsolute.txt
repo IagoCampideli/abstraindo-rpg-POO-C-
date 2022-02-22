@@ -1,0 +1,15 @@
+C:\Users\Code\Desktop\rpg-dip\RPGDio\bin\Debug\net6.0\RPGDio.exe
+C:\Users\Code\Desktop\rpg-dip\RPGDio\bin\Debug\net6.0\RPGDio.deps.json
+C:\Users\Code\Desktop\rpg-dip\RPGDio\bin\Debug\net6.0\RPGDio.runtimeconfig.json
+C:\Users\Code\Desktop\rpg-dip\RPGDio\bin\Debug\net6.0\RPGDio.dll
+C:\Users\Code\Desktop\rpg-dip\RPGDio\bin\Debug\net6.0\ref\RPGDio.dll
+C:\Users\Code\Desktop\rpg-dip\RPGDio\bin\Debug\net6.0\RPGDio.pdb
+C:\Users\Code\Desktop\rpg-dip\RPGDio\obj\Debug\net6.0\RPGDio.csproj.AssemblyReference.cache
+C:\Users\Code\Desktop\rpg-dip\RPGDio\obj\Debug\net6.0\RPGDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code\Desktop\rpg-dip\RPGDio\obj\Debug\net6.0\RPGDio.AssemblyInfoInputs.cache
+C:\Users\Code\Desktop\rpg-dip\RPGDio\obj\Debug\net6.0\RPGDio.AssemblyInfo.cs
+C:\Users\Code\Desktop\rpg-dip\RPGDio\obj\Debug\net6.0\RPGDio.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\rpg-dip\RPGDio\obj\Debug\net6.0\RPGDio.dll
+C:\Users\Code\Desktop\rpg-dip\RPGDio\obj\Debug\net6.0\ref\RPGDio.dll
+C:\Users\Code\Desktop\rpg-dip\RPGDio\obj\Debug\net6.0\RPGDio.pdb
+C:\Users\Code\Desktop\rpg-dip\RPGDio\obj\Debug\net6.0\RPGDio.genruntimeconfig.cache
